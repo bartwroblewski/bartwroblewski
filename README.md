@@ -8,7 +8,7 @@ Strava account data analysis/dashboard: [Live version](http://46.101.156.79:8003
 
 Multiplayer minesweeper game: [Live version](http://46.101.156.79:8000) [Code](https://github.com/bartwroblewski/minsk)
 
-Musical step sequencer: [Live version](http://46.101.156.79:8081/) [Code]('https://github.com/bartwroblewski/step_sequencer')
+Musical step sequencer: [Live version](http://46.101.156.79:8081/) [Code](https://github.com/bartwroblewski/step_sequencer)
 <!--
 **bartwroblewski/bartwroblewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
