@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Live version of some of my projects:
+
+[YouTube audio sampler](http://46.101.156.79:8002)
+[Multiplayer minesweeper game](http://46.101.156.79:8000)
+[Musical step sequencer](http://46.101.156.79:8081/)
 <!--
 **bartwroblewski/bartwroblewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
