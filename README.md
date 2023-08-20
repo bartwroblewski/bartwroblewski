@@ -4,7 +4,7 @@ Live version of some of my projects:
 
 [YouTube audio sampler](http://46.101.156.79:8002)
 
-[User Strava account data analysis/dashboard](http://46.101.156.79:8003)
+[Strava account data analysis/dashboard](http://46.101.156.79:8003)
 
 [Multiplayer minesweeper game](http://46.101.156.79:8000)
 
