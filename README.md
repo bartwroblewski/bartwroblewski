@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Live versions of some of my projects:
+Some of my projects:
 
-[YouTube audio sampler](http://46.101.156.79:8002)
+YouTube audio sampler: [Live version](http://46.101.156.79:8002) [Code](https://github.com/bartwroblewski/sampler_new)
 
-[Strava account data analysis/dashboard](http://46.101.156.79:8003)
+Strava account data analysis/dashboard: [Live version](http://46.101.156.79:8003) [Code](https://github.com/bartwroblewski/strava_explorer)
 
-[Multiplayer minesweeper game](http://46.101.156.79:8000)
+Multiplayer minesweeper game: [Live version](http://46.101.156.79:8000) [Code](https://github.com/bartwroblewski/minsk)
 
-[Musical step sequencer](http://46.101.156.79:8081/)
+Musical step sequencer: [Live version](http://46.101.156.79:8081/) [Code]('https://github.com/bartwroblewski/step_sequencer')
 <!--
 **bartwroblewski/bartwroblewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
