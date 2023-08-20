@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Live version of some of my projects:
+Live versions of some of my projects:
 
 [YouTube audio sampler](http://46.101.156.79:8002)
 
